@@ -1,19 +1,19 @@
-﻿using System;
+﻿using System; //Specify the different namespaces used in this program
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AddingVariables
+namespace AddingVariables //declares the namespace addingvariables
 {
-    class Program
+    class Program //declares the class program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) //main method where the program begins
         {
-            string name;
-            int zip;
-            double salary;
-            double taxes;
+            string name; //declares a string variable name
+            int zip; //declares an integer variable zip
+            double salary; //declares a double variable salary
+            double taxes; //declares a double variable taxes
 
             Console.WriteLine("");
             Console.WriteLine("-------------------------------------------------------------------------");
