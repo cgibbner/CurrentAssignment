@@ -13,6 +13,7 @@ namespace AddingVariables
             string name;
             int zip;
             double salary;
+            double taxes;
 
             Console.WriteLine("");
             Console.WriteLine("-------------------------------------------------------------------------");
@@ -39,9 +40,17 @@ namespace AddingVariables
 
             salary = Convert.ToDouble(Console.ReadLine());
 
+            taxes = (salary * 1.07);
+            Console.WriteLine(taxes);
+            taxes = (taxes - salary);
+
             Console.WriteLine(name);
             Console.WriteLine(zip);
             Console.WriteLine(salary);
+            Console.WriteLine(taxes);
+
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadKey();
         }
     }
 }
