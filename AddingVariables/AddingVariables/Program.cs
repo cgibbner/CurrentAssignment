@@ -50,7 +50,7 @@ namespace AddingVariables //declares the namespace addingvariables
             Console.WriteLine(taxes);
 
             Console.WriteLine("Press any key to continue...");
-            Console.ReadKey();
+            Console.ReadKey(); //wait for a keypress before closing the program
         }
     }
 }
