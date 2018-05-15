@@ -1,7 +1,0 @@
-C:\repo\CurrentAssignment\AddingVariables\AddingVariables\bin\Debug\AddingVariables.exe.config
-C:\repo\CurrentAssignment\AddingVariables\AddingVariables\bin\Debug\AddingVariables.exe
-C:\repo\CurrentAssignment\AddingVariables\AddingVariables\bin\Debug\AddingVariables.pdb
-C:\repo\CurrentAssignment\AddingVariables\AddingVariables\obj\Debug\AddingVariables.csprojResolveAssemblyReference.cache
-C:\repo\CurrentAssignment\AddingVariables\AddingVariables\obj\Debug\AddingVariables.csproj.CoreCompileInputs.cache
-C:\repo\CurrentAssignment\AddingVariables\AddingVariables\obj\Debug\AddingVariables.exe
-C:\repo\CurrentAssignment\AddingVariables\AddingVariables\obj\Debug\AddingVariables.pdb
