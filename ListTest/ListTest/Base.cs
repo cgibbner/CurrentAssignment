@@ -9,5 +9,6 @@ namespace ListTest
     class Base
     {
         public string data;
+       
     }
 }

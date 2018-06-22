@@ -9,6 +9,6 @@ namespace ListTest
     class Sub:Base
     {
         public new string rackNum;
-        public new string rogerNum;
+        public string rogerNum;
     }
 }

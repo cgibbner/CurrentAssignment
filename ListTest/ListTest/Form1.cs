@@ -58,8 +58,16 @@ namespace ListTest
 
         private void btnRead_Click(object sender, EventArgs e)
         {
-            rtfBox.Text = dataStor[0].data;
-            //rtfBox.Text = dataStor[0].rackNum;
+            if (dataStor[0].GetType() == typeof(Sub))
+            {
+                List<Sub> sList = new List<Sub>();
+                sList.Add(dataStor[0].Cast(Of Sub) ().ToList);
+
+            }
+
+            rtfBox.Text += dataStor[0].data;
+            rtfBox.Text += dataStor[0];
+           
             //rtfBox.Text = dataStor[0].rogerNum;
         }
     }
