@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ListTest
+namespace LINQ
 {
-    class Sub:Base
+    class Manager:Employee
     {
-        public new string rackNum;
-        public string rogerNum;
+        public string costCenter;
+        public string supervisor;
     }
 }

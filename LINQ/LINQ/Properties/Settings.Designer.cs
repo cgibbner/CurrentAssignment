@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ListTest.Properties
+namespace LINQ.Properties
 {
 
 

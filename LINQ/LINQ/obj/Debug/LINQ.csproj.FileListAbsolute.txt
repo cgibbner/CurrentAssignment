@@ -1,0 +1,9 @@
+C:\Users\Cody\Desktop\Phoenix\Class14\Week 3\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Cody\Desktop\Phoenix\Class14\Week 3\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Cody\Desktop\Phoenix\Class14\Week 3\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Cody\Desktop\Phoenix\Class14\Week 3\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Desktop\Phoenix\Class14\Week 3\LINQ\LINQ\obj\Debug\LINQ.Form1.resources
+C:\Users\Cody\Desktop\Phoenix\Class14\Week 3\LINQ\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+C:\Users\Cody\Desktop\Phoenix\Class14\Week 3\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.Cache
+C:\Users\Cody\Desktop\Phoenix\Class14\Week 3\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Cody\Desktop\Phoenix\Class14\Week 3\LINQ\LINQ\obj\Debug\LINQ.pdb
