@@ -1,0 +1,35 @@
+body {
+    background-color: dodgerblue;
+    font-family: sans-serif; 
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+div {
+    background-color: white;
+    
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+
+p {
+    text-align: center;
+    
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    
+}

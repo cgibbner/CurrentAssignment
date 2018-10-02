@@ -1,0 +1,1 @@
+This web document is being created for a company that does not currently have a working web site. In its current state, the site is simply a skeleton to be added onto. The menu bar is completely functional and should operate as expected. The layout is a basic representation of how the final product will look.
