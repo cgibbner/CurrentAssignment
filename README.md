@@ -1,2 +1,2 @@
 # CurrentAssignment
-Weekly assignment for C# class. UOPX.
+Weekly assignments for programming classs. UOPX.
