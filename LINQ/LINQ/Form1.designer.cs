@@ -114,6 +114,7 @@
             this.rtfInput.Size = new System.Drawing.Size(257, 23);
             this.rtfInput.TabIndex = 6;
             this.rtfInput.Text = "";
+            this.rtfInput.TextChanged += new System.EventHandler(this.rtfInput_TextChanged);
             // 
             // rtfBox2
             // 

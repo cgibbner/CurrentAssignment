@@ -7,3 +7,13 @@ C:\Users\Cody\Desktop\Phoenix\Class14\Week 3\LINQ\LINQ\obj\Debug\LINQ.Properties
 C:\Users\Cody\Desktop\Phoenix\Class14\Week 3\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.Cache
 C:\Users\Cody\Desktop\Phoenix\Class14\Week 3\LINQ\LINQ\obj\Debug\LINQ.exe
 C:\Users\Cody\Desktop\Phoenix\Class14\Week 3\LINQ\LINQ\obj\Debug\LINQ.pdb
+C:\repo\CurrentAssignment\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\repo\CurrentAssignment\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\repo\CurrentAssignment\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\repo\CurrentAssignment\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\repo\CurrentAssignment\LINQ\LINQ\obj\Debug\LINQ.Form1.resources
+C:\repo\CurrentAssignment\LINQ\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+C:\repo\CurrentAssignment\LINQ\LINQ\obj\Debug\LINQ.csproj.GenerateResource.cache
+C:\repo\CurrentAssignment\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\repo\CurrentAssignment\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\repo\CurrentAssignment\LINQ\LINQ\obj\Debug\LINQ.pdb

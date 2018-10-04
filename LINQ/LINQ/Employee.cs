@@ -15,9 +15,5 @@ namespace LINQ
         public string state;
         public string zip;
         public string type;
-        
-        
-
-
     }
 }

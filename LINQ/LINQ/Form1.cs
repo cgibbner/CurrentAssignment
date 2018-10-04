@@ -221,6 +221,11 @@ namespace LINQ
 
 
         }
+
+        private void rtfInput_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
     }
 

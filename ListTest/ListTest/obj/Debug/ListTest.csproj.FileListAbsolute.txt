@@ -1,0 +1,10 @@
+C:\repo\CurrentAssignment\ListTest\ListTest\bin\Debug\ListTest.exe.config
+C:\repo\CurrentAssignment\ListTest\ListTest\bin\Debug\ListTest.exe
+C:\repo\CurrentAssignment\ListTest\ListTest\bin\Debug\ListTest.pdb
+C:\repo\CurrentAssignment\ListTest\ListTest\obj\Debug\ListTest.csprojResolveAssemblyReference.cache
+C:\repo\CurrentAssignment\ListTest\ListTest\obj\Debug\ListTest.Form1.resources
+C:\repo\CurrentAssignment\ListTest\ListTest\obj\Debug\ListTest.Properties.Resources.resources
+C:\repo\CurrentAssignment\ListTest\ListTest\obj\Debug\ListTest.csproj.GenerateResource.cache
+C:\repo\CurrentAssignment\ListTest\ListTest\obj\Debug\ListTest.csproj.CoreCompileInputs.cache
+C:\repo\CurrentAssignment\ListTest\ListTest\obj\Debug\ListTest.exe
+C:\repo\CurrentAssignment\ListTest\ListTest\obj\Debug\ListTest.pdb
