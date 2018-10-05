@@ -1,2 +1,2 @@
 # CurrentAssignment
-Weekly assignments for programming classs. UOPX.
+Weekly assignments for programming classes. UOPX.
