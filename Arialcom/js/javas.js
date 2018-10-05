@@ -34,7 +34,7 @@ function changeaboutcolorbk() {
     
 }
 
-function changcontactcolor() {
+function changecontactcolor() {
     
     var text = document.getElementById("chcontact").style.color = "red";
     
