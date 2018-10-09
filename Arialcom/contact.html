@@ -4,6 +4,7 @@
         <title>Contact</title>
         <link rel="stylesheet" type="text/css" href="css/stylesheet.css"/>
         <script src="js/javas.js"></script>
+        <script src="js/val.js"></script>
     </head>
 
     <body>
@@ -25,9 +26,32 @@
         <p>We are located a 145 Clark Building Road Bedford Pennsylvania.</p>
         <p>Our shop is open from 8am to 4:30pm Monday through Friday.</p>
         <p>If you are interested in our services, we can be reached at 814-623-2913</p>
-        <p></p>
+        <p>Alternatively you can send us an email below.</p>
         
         
+        <p>=============================================================================================================================================================</p>
+        
+        <form name="help" action="" onsubmit="return validate()" novalidate>
+            <label>Full Name:
+                <input type="text" name="funame" />
+            </label>
+            <br/>
+            <label>Email:
+                <input type="email" name="email" />
+            </label>
+            <br/>
+            <h3 ALIGN=LEFT>
+            Please submit a brief description of your issue:
+            </h3>
+                
+            <textarea name="issue" rows="10" cols="50"></textarea>
+            <br/>
+                    
+            <input type="submit" value="Submit" />                   
+                
+        </form>
+        
+    
     
     </body>
     
